@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cv-web/static/css/main.ab2126bc.css",
+    "main.js": "/cv-web/static/js/main.5b52fa22.js",
+    "static/js/787.7da95b79.chunk.js": "/cv-web/static/js/787.7da95b79.chunk.js",
+    "static/media/hero.jpg": "/cv-web/static/media/hero.cd5f739f31b2e801be72.jpg",
+    "static/media/instagram.svg": "/cv-web/static/media/instagram.812c0e2f00f4ac8871a6835a4e3f7180.svg",
+    "static/media/beatport.svg": "/cv-web/static/media/beatport.6ae2da74bbe174fa0a96341f94e6cc64.svg",
+    "static/media/twitter.svg": "/cv-web/static/media/twitter.0b9cb0635a158545ff44b3f2d6ee0f4b.svg",
+    "static/media/hamburger.svg": "/cv-web/static/media/hamburger.4fec2e6096360402fa46386d6e4cc4cd.svg",
+    "static/media/facebook.svg": "/cv-web/static/media/facebook.dac8e08d5aceb3db1c906e6d66ec67e4.svg",
+    "index.html": "/cv-web/index.html",
+    "static/media/menu.svg": "/cv-web/static/media/menu.de6fd5c33284c5fd26e74d3445c86150.svg",
+    "main.ab2126bc.css.map": "/cv-web/static/css/main.ab2126bc.css.map",
+    "main.5b52fa22.js.map": "/cv-web/static/js/main.5b52fa22.js.map",
+    "787.7da95b79.chunk.js.map": "/cv-web/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab2126bc.css",
+    "static/js/main.5b52fa22.js"
+  ]
+}
